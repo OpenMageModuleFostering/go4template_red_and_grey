@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Go4Template_Red_and_Grey",
+    "name": "openmage-module-fostering\/go4template_red_and_grey",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "A beautiful Red & Grey theme for your Magento Store.",
     "authors": [
